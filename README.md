@@ -1,6 +1,6 @@
 👋 **Greetings and welcome to my GitHub profile!
 
-I'm Ajinkya Pradhan, a dedicated B.Tech Computer Science Engineering student with a passion for crafting reliable software solutions. 
+I'm Ajinkya Pradhan, a dedicated B.Tech Computer Science Engineering graduate with a passion for crafting reliable software solutions. 
 Within my repositories, you'll discover a diverse array of projects showcasing my expertise and interests in Java, Spring Boot, Javascript, ReactJS, SQL, Front-End Development. 
 From architecting robust backend systems using Java and Spring Boot to crafting engaging user interfaces with React.js, I thrive on tackling multifaceted challenges and 
 delivering elegant solutions. Whether it involves tackling intricate algorithms, designing scalable architectures, or fine-tuning database queries, I relish the process 
